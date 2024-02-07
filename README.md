@@ -1,1 +1,1 @@
-# tailwind-projects
+Sample Tailwind projects created while learning Tailwind CSS at https://www.udemy.com/course/tailwind-from-scratch
