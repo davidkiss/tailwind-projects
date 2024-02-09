@@ -11,3 +11,6 @@ Sample Tailwind projects created while learning Tailwind CSS at https://www.udem
 
 # Image gallery
 ![Screenshot](./image_gallery.png)
+
+# Login modal
+![Screenshot](./login_modal.png)
