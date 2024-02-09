@@ -8,3 +8,6 @@ Sample Tailwind projects created while learning Tailwind CSS at https://www.udem
 
 # Product modal
 ![Screenshot](./product_modal.png)
+
+# Image gallery
+![Screenshot](./image_gallery.png)
